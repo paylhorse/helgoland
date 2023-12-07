@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dl33lo8x24ifj"
-path="res://.godot/imported/matplotlibLogo.png-504dcf40b5d4d110db37cb9e757a201f.ctex"
+uid="uid://dggrk8c6lwjhu"
+path="res://.godot/imported/boot.png-734439347e6dd44244668a0cf09adf80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://img/matplotlibLogo.png"
-dest_files=["res://.godot/imported/matplotlibLogo.png-504dcf40b5d4d110db37cb9e757a201f.ctex"]
+source_file="res://img/boot.png"
+dest_files=["res://.godot/imported/boot.png-734439347e6dd44244668a0cf09adf80.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bo426x1fknbl"
-path="res://.godot/imported/numpyLogo.png-ef94df01d602ff5972a1713b09873b69.ctex"
+uid="uid://b4rxqyuxdrryt"
+path="res://.godot/imported/blockout_crop.png-4cbed779a897653630e420e3bb73fba7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://img/numpyLogo.png"
-dest_files=["res://.godot/imported/numpyLogo.png-ef94df01d602ff5972a1713b09873b69.ctex"]
+source_file="res://img/blockout_crop.png"
+dest_files=["res://.godot/imported/blockout_crop.png-4cbed779a897653630e420e3bb73fba7.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 extends CodeEdit
 
 # Reference to Typst node
-@export var typst_node: Typst
+@export var typst_node: TypstTextureRect
 
 func _ready():
 	# Copy 'typst_expression' from Typst node to text

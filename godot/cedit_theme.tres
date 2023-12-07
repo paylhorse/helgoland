@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://d3jvboj1ofimr"]
+
+[ext_resource type="FontFile" uid="uid://ex2om76sjudr" path="res://font/sarasa-mono-cl-regular.ttf" id="1_5l6g7"]
+
+[resource]
+CodeEdit/fonts/font = ExtResource("1_5l6g7")
